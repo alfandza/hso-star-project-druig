@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data SelectionPilih TanggalJenis ARPili_1213a6</name>
+   <tag></tag>
+   <elementGuidId>dfa9a963-ec86-49b9-aaa1-802629bee27f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/div/section/section/main/div/div/div/div/div[2]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.DataSelection_data-selection__hMk6V</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>97d5525f-dac8-458e-a5f3-7069a9e0c803</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DataSelection_data-selection__hMk6V</value>
+      <webElementGuid>91c92a2c-c55d-4033-ada3-9cb2d998dc4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data SelectionPilih TanggalJenis ARPilih Jenis ARJenis PelangganPilih Jenis PelangganData Pelanggan Input Data PelangganLeasing Company Pilih Leasing CompanyMOP CompanyPilih MOP CompanyCharge To Pilih Charge To</value>
+      <webElementGuid>ad3bb9ad-2ce4-490f-a46e-8ba723ee1161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout&quot;]/div[@class=&quot;Layout_layout-content__UoFx4&quot;]/section[@class=&quot;ant-layout Layout_layout-transition__tp-4e Layout_with-sidebar__WsOiW&quot;]/section[@class=&quot;ant-layout Layout_content__95Ydx&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;Contain_contain__ZjxRP&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col Contain_contain-content__JkWbm&quot;]/div[@class=&quot;Container_container__yzFmI Container_xl__0YVT6&quot;]/div[@class=&quot;Contain_contain-content-inner__OdUKi&quot;]/div[1]/div[1]/div[@class=&quot;DataSelection_data-selection__hMk6V&quot;]</value>
+      <webElementGuid>dbbff59b-e5eb-4091-924f-7e6314b4c4ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/div/section/section/main/div/div/div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>5e476d9a-9149-4897-90fa-9ea02d0e7ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer'])[2]/following::div[1]</value>
+      <webElementGuid>64d52138-0254-480b-a57f-a1cf8f860dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer'])[1]/following::div[9]</value>
+      <webElementGuid>323e9e53-52d3-4a5b-a8c9-c4ac34c521d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>a5e958ce-7446-4882-a14d-753dd0deaaa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Data SelectionPilih TanggalJenis ARPilih Jenis ARJenis PelangganPilih Jenis PelangganData Pelanggan Input Data PelangganLeasing Company Pilih Leasing CompanyMOP CompanyPilih MOP CompanyCharge To Pilih Charge To' or . = 'Data SelectionPilih TanggalJenis ARPilih Jenis ARJenis PelangganPilih Jenis PelangganData Pelanggan Input Data PelangganLeasing Company Pilih Leasing CompanyMOP CompanyPilih MOP CompanyCharge To Pilih Charge To')]</value>
+      <webElementGuid>04026d50-0094-4542-8560-7b062bbea2ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

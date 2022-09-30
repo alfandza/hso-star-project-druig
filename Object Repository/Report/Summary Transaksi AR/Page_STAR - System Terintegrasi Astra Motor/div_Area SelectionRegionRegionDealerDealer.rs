@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Area SelectionRegionRegionDealerDealer</name>
+   <tag></tag>
+   <elementGuidId>d1c3184f-debd-4ec7-928d-ad4237dff250</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/div/section/section/main/div/div/div/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.AreaSelection_area-selection__2UYms</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d0d3a1e4-661e-4e55-bfe6-d12e01e07460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>AreaSelection_area-selection__2UYms</value>
+      <webElementGuid>c3863334-6198-4237-a7d6-c51eae60e831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Area SelectionRegion RegionDealer Dealer</value>
+      <webElementGuid>9e62be2a-5b1c-45fe-a72e-97f4a1ecbc3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout&quot;]/div[@class=&quot;Layout_layout-content__UoFx4&quot;]/section[@class=&quot;ant-layout Layout_layout-transition__tp-4e Layout_with-sidebar__WsOiW&quot;]/section[@class=&quot;ant-layout Layout_content__95Ydx&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;Contain_contain__ZjxRP&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col Contain_contain-content__JkWbm&quot;]/div[@class=&quot;Container_container__yzFmI Container_xl__0YVT6&quot;]/div[@class=&quot;Contain_contain-content-inner__OdUKi&quot;]/div[1]/div[1]/div[@class=&quot;AreaSelection_area-selection__2UYms&quot;]</value>
+      <webElementGuid>0720d606-7f8c-4deb-9117-d53c0f464297</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/div/section/section/main/div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>3aab73d6-4e15-4594-ac1f-d9139dbf9352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[5]/following::div[5]</value>
+      <webElementGuid>de84bc34-7ba1-4380-92fe-39f172675594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Summary Tranksaksi AR'])[1]/following::div[5]</value>
+      <webElementGuid>12be3de9-9fea-49a6-9dec-08e6d2d32811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div</value>
+      <webElementGuid>d6f92f35-8317-4ced-817f-0ae039057d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Area SelectionRegion RegionDealer Dealer' or . = 'Area SelectionRegion RegionDealer Dealer')]</value>
+      <webElementGuid>fae59865-46f7-4d16-9f32-a1fe257853e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

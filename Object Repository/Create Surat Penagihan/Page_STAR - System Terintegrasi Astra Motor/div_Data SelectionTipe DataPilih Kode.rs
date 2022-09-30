@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data SelectionTipe DataPilih Kode</name>
+   <tag></tag>
+   <elementGuidId>5f72bcd4-ad7b-427b-8e8e-4bf52ec4398e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Card_card__8Ki8e.DataSelectionCard_card__IpXXf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/div/section/section/main/div/div/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8bba3d6b-f741-426a-a98b-32153f3fd3f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Card_card__8Ki8e DataSelectionCard_card__IpXXf</value>
+      <webElementGuid>32a9eccf-0262-483e-a433-08ffddaeb66b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data SelectionTipe DataPilih Kode</value>
+      <webElementGuid>678e1e2b-3047-4a59-b785-f8498a3d884d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout&quot;]/div[@class=&quot;Layout_layout-content__UoFx4&quot;]/section[@class=&quot;ant-layout Layout_layout-transition__tp-4e Layout_with-sidebar__WsOiW&quot;]/section[@class=&quot;ant-layout Layout_content__95Ydx&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;Contain_contain__ZjxRP&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col Contain_contain-content__JkWbm&quot;]/div[@class=&quot;Container_container__yzFmI Container_xl__0YVT6&quot;]/div[@class=&quot;Contain_contain-content-inner__OdUKi&quot;]/div[1]/div[@class=&quot;Card_card__8Ki8e DataSelectionCard_card__IpXXf&quot;]</value>
+      <webElementGuid>233f253d-faac-4055-a509-52be2f08cd06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/div/section/section/main/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>1585bdf0-3d30-4492-8919-b5dd289d74a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::div[4]</value>
+      <webElementGuid>2707c9f2-b5f3-40ee-b097-9e18bce21606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surat Penagihan'])[2]/following::div[4]</value>
+      <webElementGuid>a1b9675c-bf93-4e4c-8ed2-d31da818e9b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div</value>
+      <webElementGuid>7394f39e-24cc-4980-8aa3-32d2dcdb0612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Data SelectionTipe DataPilih Kode' or . = 'Data SelectionTipe DataPilih Kode')]</value>
+      <webElementGuid>5f74311d-0415-45c2-8cae-6f68401f0157</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

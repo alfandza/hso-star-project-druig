@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data SelectionTipe DataPilih KodeShow R_611cbb</name>
+   <tag></tag>
+   <elementGuidId>e47bf957-dc70-4a6e-a168-9ee3479e6d7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Card_card__8Ki8e</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/div/section/section/main/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f7f81f52-8ed9-4a80-8f83-139df44a9877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Card_card__8Ki8e</value>
+      <webElementGuid>735bdac0-7a90-459f-89a7-87eab3ca9cb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data SelectionTipe DataPilih KodeShow ResultKode Kas/BankCollectionOperation</value>
+      <webElementGuid>f32146eb-b431-457d-84f8-e01e207362d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout&quot;]/div[@class=&quot;Layout_layout-content__UoFx4&quot;]/section[@class=&quot;ant-layout Layout_layout-transition__tp-4e Layout_with-sidebar__WsOiW&quot;]/section[@class=&quot;ant-layout Layout_content__95Ydx&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;Contain_contain__ZjxRP&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col Contain_contain-content__JkWbm&quot;]/div[@class=&quot;Container_container__yzFmI Container_xl__0YVT6&quot;]/div[@class=&quot;Contain_contain-content-inner__OdUKi&quot;]/div[@class=&quot;Card_card__8Ki8e&quot;]</value>
+      <webElementGuid>2a76b7cd-a00f-4072-95ea-e989d6ace683</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/div/section/section/main/div/div/div/div/div[2]/div</value>
+      <webElementGuid>3986ad93-b099-4aa3-91f0-22be4614ced6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::div[3]</value>
+      <webElementGuid>a27a8ff5-c2af-4127-bd91-fb65e608b6cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Kuitansi Penagihan'])[2]/following::div[3]</value>
+      <webElementGuid>57ed688a-9ad9-4718-8873-fcb9ebe3fc7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div/div[2]/div</value>
+      <webElementGuid>c4aae862-24f0-4fa6-9bb2-5094676e0379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Data SelectionTipe DataPilih KodeShow ResultKode Kas/BankCollectionOperation' or . = 'Data SelectionTipe DataPilih KodeShow ResultKode Kas/BankCollectionOperation')]</value>
+      <webElementGuid>39c670af-b28e-4ce6-9700-f93bffecd7fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

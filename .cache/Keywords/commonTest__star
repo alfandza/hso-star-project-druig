@@ -1,0 +1,46 @@
+{
+  "keywordFileContentHash": "7B95A6E25076D0A4DED38CCCBE892555",
+  "keywordClasses": [
+    {
+      "name": "commonTest.star",
+      "keywordMethods": [
+        {
+          "name": "openLoginDealer",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "loginAFSODealer",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "loginKasirDealer",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "loginBranchHeadDealer",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openLoginSO",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "loginAFSOSO",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "loginKasirSO",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
